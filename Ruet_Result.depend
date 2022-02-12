@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548448119 source:c:\users\mehed\desktop\ruet_result\main.cpp
+	<bits/stdc++.h>
+	"student inf.h"
+
+1548510507 c:\users\mehed\desktop\ruet_result\student inf.h
+
+1548447920 source:c:\users\mehed\desktop\ruet_result\student inf.cpp
+	<bits/stdc++.h>
+	"student inf.h"
+
